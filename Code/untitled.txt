@@ -1,0 +1,1 @@
+python main.py -ds Sirtuin7 -n_dep 7 -n_fil 256 -ws 2 4 -vm independent

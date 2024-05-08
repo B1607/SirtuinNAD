@@ -1,0 +1,1 @@
+python get_dataset.py -in ../Data/Train -label ../Data/Fasta/Train/label -w 7 -ds ".prottrans" -out ./Train
