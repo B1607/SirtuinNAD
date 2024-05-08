@@ -27,6 +27,10 @@ Example usage:
 ```bash
 python get_ProtTrans.py -in "Your FASTA file folder" -out "The destination folder of your output"
 ```
+Alternative example:
+```bash
+python get_ProtTrans -in ./Fasta/Train -out ./Train
+```
 
 ### Step 2: Generate Dataset Using Data Features
 
