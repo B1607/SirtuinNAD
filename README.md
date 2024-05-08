@@ -6,7 +6,7 @@
 
 <br>
 
-![workflow](https://github.com/B1607/ATPirP/blob/8dda76bf92fe8127ed4e21a740aa6d02e9298d94/other/Figure.png)
+![workflow]([https://github.com/B1607/ATPirP/blob/8dda76bf92fe8127ed4e21a740aa6d02e9298d94/other/Figure.png](https://github.com/B1607/SirtuinNAD/blob/b49ebc651c953b041f5e2ef0dfd2778277020526/other/Figure_Sirtuin.png))
 ## Dataset <a name="Dataset"></a>
 
 | Dataset            | Protein Sequence | ATP Interacting Residues | Non-Interacting Residues |
